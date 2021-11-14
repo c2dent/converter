@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "aUDQAJqT7ZodlSOpmx4aiSpJLkfkwUQsjvOHtLakZxecHH2Uwt1DJIUe0b1JDsy1CoOj9DS+qRwGlTwGlDXUtQ==",
+  "success": true,
+  "projectFilePath": "/home/c2dent/practice/csharp/converter/converter.csproj",
+  "expectedPackageFiles": [
+    "/home/c2dent/.nuget/packages/newtonsoft.json/13.0.1/newtonsoft.json.13.0.1.nupkg.sha512"
+  ],
+  "logs": []
+}

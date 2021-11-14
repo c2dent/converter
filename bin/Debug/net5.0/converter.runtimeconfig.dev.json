@@ -1,0 +1,8 @@
+{
+  "runtimeOptions": {
+    "additionalProbingPaths": [
+      "/home/c2dent/.dotnet/store/|arch|/|tfm|",
+      "/home/c2dent/.nuget/packages"
+    ]
+  }
+}
